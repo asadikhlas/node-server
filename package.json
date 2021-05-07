@@ -18,7 +18,7 @@
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.3",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "webkul-micron": "^1.1.6",
     "yarn": "^1.22.4"
   }
